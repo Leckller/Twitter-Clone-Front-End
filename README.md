@@ -1,0 +1,3 @@
+Tecnologias Utilizadas
+  - React
+  - Tailwind
